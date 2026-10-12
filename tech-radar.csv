@@ -12,6 +12,7 @@ name,ring,quadrant,isNew,description
 "Copilot: GSD for spec-driven copilot development","TRIAL","Tools","false","<p><a href=""https://github.com/gsd-build/get-shit-done"">gsd-build/get-shit-done</a> for spec-driven development using copilots.</p>"
 "Copilot: Serena as a copilot LSP server","TRIAL","Tools","false","<p><a href=""https://github.com/oraios/serena"">oraios/serena</a> adds LSP tools to copilots, allowing them to work more effectively on larger codebases.</p>"
 "Copilot: gstack for spec-driven copilot development","TRIAL","Tools","false","<p><a href=""https://github.com/garrytan/gstack"">garrytan/gstack</a> is a set of skills and instructions for copilots, proposed by the CEO of Y-Combinator</p>"
+"Copilot: leviathan as a large memory store","TRIAL","Tools","false","<p><a href=""https://github.com/elstongun/leviathan?utm_source=tldrdata"">elstongun/leviathan</a> is a large memory store for massive date for coding copilots.</p>"
 "Copilot: ossature for spec-driven copilot development","TRIAL","Tools","false","<p><a href=""https://github.com/ossature/ossature"">ossature/ossature</a> for spec-driven development using copilots.</p>"
 "Copilot: spec-kit for spec-driven copilot development","TRIAL","Tools","false","<p><a href=""https://github.com/github/spec-kit"">github/spec-kit</a> for spec-driven development using copilots.</p>"
 "Copilot: superpowers as a set of copilot skills.","TRIAL","Tools","false","<p><a href=""https://github.com/obra/superpowers"">obra/superpowers</a> is an open set of skills for coding copilots.</p>"
